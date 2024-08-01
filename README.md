@@ -57,6 +57,9 @@ The game world is divided into five distinct areas: the center of Elderwood, the
 
 Based on player feedback, the game includes a detailed tutorial system at the beginning to help players understand the controls, objectives, and mechanics of the game. <br><br>
 
+**10. Health System**
+
+The game includes a health system for the main character. Players must manage their health carefully, especially when interacting with fierce animals or exploring dangerous areas. If the character's health reaches zero, the player will lose all collected items and resources, adding a risk element to the gameplay. Health can be restored using items found or purchased in the game. <br><br>
 
 
 - **Designed Mindmap**
