@@ -42,6 +42,9 @@ A bag system allows players to collect and store various resources found through
 
 The shop, located in the wonderland section of the map, offers players the opportunity to purchase items and resources to aid in their survival and progress within the game.<br><br>
 
+**6. Dialogue and Storytelling**
+The game includes a dialogue system that guides the player through the story. NPC interactions provide hints, tasks, and background information, enhancing the narrative experience. Players can choose to accept or decline tasks offered by NPCs, adding a layer of decision-making to the gameplay. <br><br>
+
 **7. Exploration of Secret Places**
 
 The forest contains various secret locations such as caves and ancient ruins. These areas house hidden tasks, valuable resources, and special animals like the unicorn and phoenix.<br><br>
@@ -53,8 +56,8 @@ The game world is divided into five distinct areas: the center of Elderwood, the
 **9. Educational Tutorial System**
 
 Based on player feedback, the game includes a detailed tutorial system at the beginning to help players understand the controls, objectives, and mechanics of the game. <br><br>
-**6. Dialogue and Storytelling**
-**6. Dialogue and Storytelling**
+
+
 
 - **Designed Mindmap**
 
