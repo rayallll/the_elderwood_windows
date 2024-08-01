@@ -87,14 +87,14 @@ Implemented unit tests to ensure the reliability of game mechanics, including ch
 - **Improvements**:<br>
 **Gameplay Balance**: <br>
 Adjusted difficulty levels and tool effectiveness to ensure a balanced and enjoyable experience.<br>
-****:<br>
- <br>
-****: <br>
-<br>
-****:<br>
-<br>
-****:<br>
-<br>
+**Better Animations for the Main Character**:<br>
+Enhance the animations for the main character, especially when she is moving and running, to create a smoother and more visually appealing experience. <br>
+**Detailed Tutorial System**: <br>
+Implement a comprehensive tutorial system at the beginning of the game to guide players through the controls and basic mechanics, ensuring they understand how to use the building system and other game features.<br>
+**Clear Game Objectives**:<br>
+Provide clearer objectives at the start of the game to help players understand their goals and what they need to achieve.<br>
+**Danger Announcements**:<br>
+Add announcements or warnings when players are near dangerous animals to help them prepare and react appropriately.<br>
 
 
 ## Video Demo
