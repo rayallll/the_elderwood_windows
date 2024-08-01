@@ -1,13 +1,100 @@
-This a 2D RPG only on windows PC
+# The Elderwood
+A 2D role-play Open World simulation puzzle game that is available exclusively on Windows PC.
 
-1. The main character Ray is chosen to be the next guardian of the forest. Your job is to help her survive, live with the animals,
-2. The old man will tell you all the things, to ensure you could play the game without any barriers. Also, the mission system could tell you what you should do next.
-2. And find out the secrets in the mystical forest. In these secret places, You may get a magic book, and use it to attack your enemies. You may get a key that could open a new region.
-3. To explore the game world, you can move around freely in the map using the keyboard.
-4. The main goal of the game is to tame animals and bring them back home.
-5. You also need to help Ray gather resources, and build a house to live in.
-6. And buy or craft tools that will be used to tame animals.
-7. The Elderwood gives the players a fun and relaxing experience. There are lots of secrets waiting for you to discover. So come and help Ray save the forest!
-8. You are ready to play!
+## Project Description
+- **Project Type**: Bachelor School Project in Queen's Univeristy CISC 226 - 2D RPG Game.
+  
+- **Project Motivations**: "The Elderwood" was created to immerse players in a magical forest setting where they help the protagonist, Ray, survive and uncover secrets. By integrating exploration, resource management, and animal taming, the game aims to offer a captivating and engaging experience.
 
-0. Click setting on the upper-right corner to exit.
+## Project Summary
+- **Completed Functionalities**:<br>
+  Exploration of a mystical forest. <br>
+  Interaction with animals and gathering resources. <br>
+  Crafting and tool management. <br>
+  Secrets and mystical items discovery. <br>
+  
+- **Project Goal**:<br>
+To develop an engaging RPG that combines exploration, survival, and animal taming in a rich, mystical environment. The game encourages players to explore, interact with the environment, and uncover hidden secrets.
+  
+- **Language Package**:<br>
+**Developing Tool**: *Unity* <br>
+**Developing Language**: *C#* <br>
+**Design Tool**: *Procreate*<br>
+
+## Project Feature
+**1. Open World and Non-Linear Gameplay**
+
+Players can tame a variety of animals, each with unique personalities and behaviors. Different strategies and tools are required for taming different animals, such as using carrots for rabbits or anesthetic needles for wolves and tigers. Players are not bound by a linear progression and can approach tasks and challenges in their own preferred order. <br><br>
+
+**2. Animal Taming System**
+
+Players can tame a variety of animals, each with unique personalities and behaviors. Different strategies and tools are required for taming different animals, such as using carrots for rabbits or anesthetic needles for wolves and tigers. Animals roam freely throughout the forest, adding a dynamic element to the game. <br><br>
+
+**3. Building System**
+
+Players can collect resources like wood and stone to construct buildings. They can choose from at least two types of houses and furnish them using the materials they gather. The building system also includes the ability to enter and interact with their homes.<br><br>
+
+**4. Resource Collection and Management**
+
+A bag system allows players to collect and store various resources found throughout the forest. These resources can be used to build structures, craft tools, and tame animals.<br><br>
+
+**5. Shop System**
+
+The shop, located in the wonderland section of the map, offers players the opportunity to purchase items and resources to aid in their survival and progress within the game.<br><br>
+
+**7. Exploration of Secret Places**
+
+The forest contains various secret locations such as caves and ancient ruins. These areas house hidden tasks, valuable resources, and special animals like the unicorn and phoenix.<br><br>
+
+**8. Dynamic and Diverse Environment**
+
+The game world is divided into five distinct areas: the center of Elderwood, the Sakura forest, the wasteland, the snow mountain, and the wonderland. Each area offers unique resources, animals, and challenges.<br><br>
+
+**9. Educational Tutorial System**
+
+Based on player feedback, the game includes a detailed tutorial system at the beginning to help players understand the controls, objectives, and mechanics of the game. <br><br>
+**6. Dialogue and Storytelling**
+**6. Dialogue and Storytelling**
+
+- **Designed Mindmap**
+
+
+- **Environment Setup**:<br>
+To run the project, you need to set up the following environment: <br>
+**1. Prerequisites**:<br>
+**Operating System**: Windows PC. <br>
+**Unity**: Ensure Unity is installed on your system. <br>
+**2. Setup Instructions**:<br>
+**Clone Repository**: Clone the project repository from GitHub.<br>
+**Run the Game**: Navigate to the extracted folder and double-click the *New Unity Project.exe* file to start the game.<be>
+
+## Game Controls
+- **Movement**: Use [W][A][S][D] or the arrow keys to move around the map.
+- **Speed Up**: Press [Shift] to speed up.
+- **Resource Harvesting**: Press [E] to harvest resources such as stones and metals.
+- **Use Axe**: Open the bag, click on the axe to equip it, then press [F] to cut down trees and gather wood.
+- **Combat**: Press [Space] to fight with animals. If you find the magic book in one of the hidden locations in the forest. Click the magic icon select attack mode and Use mouse-clicking to attack animals.
+- **Building**: Click the "Build" button beside the bag to build houses and a craft table with collected resources.
+- **Map Access**: Click the "Map" button beside the "Build" button to access the map of the forest.
+
+## Iterative Design
+- **Unit Test**:
+Implemented unit tests to ensure the reliability of game mechanics, including character movement, animal taming, and resource management. Gathered feedback from initial players to refine the game. Additionally, 6 players tested the application for 10 rounds, providing valuable feedback for further improvements.
+
+- **Improvements**:<br>
+**Gameplay Balance**: <br>
+Adjusted difficulty levels and tool effectiveness to ensure a balanced and enjoyable experience.<br>
+****:<br>
+ <br>
+****: <br>
+<br>
+****:<br>
+<br>
+****:<br>
+<br>
+
+
+## Video Demo
+[![Watch the video](screenshot/elderwood-youtube-video.png)](https://www.youtube.com/watch?v=UHW6YcSjf2Y)
+
+ * video link: [https://www.youtube.com/watch?v=SeSH-yGvLrM](https://www.youtube.com/watch?v=UHW6YcSjf2Y)
