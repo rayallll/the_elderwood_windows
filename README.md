@@ -2,9 +2,11 @@
 A 2D role-play Open World simulation puzzle game that is available exclusively on Windows PC.
 
 ## Project Description
-- **Project Type**: Bachelor School Project in Queen's Univeristy CISC 226 - 2D RPG Game.
+- **Project Type**: <br>
+Bachelor School Project in Queen's Univeristy CISC 226 - 2D RPG Game.
   
-- **Project Motivations**: "The Elderwood" was created to immerse players in a magical forest setting where they help the protagonist, Ray, survive and uncover secrets. By integrating exploration, resource management, and animal taming, the game aims to offer a captivating and engaging experience.
+- **Project Motivations**: <br>
+"The Elderwood" was created to immerse players in a magical forest setting where they help the protagonist, Ray, survive and uncover secrets. By integrating exploration, resource management, and animal taming, the game aims to offer a captivating and engaging experience.
 
 ## Project Summary
 - **Completed Functionalities**:<br>
