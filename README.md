@@ -24,38 +24,39 @@ To develop an engaging RPG that combines exploration, survival, and animal tamin
 ## Project Feature
 **1. Open World and Non-Linear Gameplay**
 
-Players can tame a variety of animals, each with unique personalities and behaviors. Different strategies and tools are required for taming different animals, such as using carrots for rabbits or anesthetic needles for wolves and tigers. Players are not bound by a linear progression and can approach tasks and challenges in their own preferred order. <br><br>
+Players can tame various animals, each with unique personalities and behaviors. Different strategies and tools are required for taming different animals, such as using carrots for rabbits or anesthetic needles for wolves and tigers. A linear progression does not bind players and can approach tasks and challenges in their preferred order. <br><br>
 
-**2. Animal Taming System**
+**2. Educational Tutorial System**
 
-Players can tame a variety of animals, each with unique personalities and behaviors. Different strategies and tools are required for taming different animals, such as using carrots for rabbits or anesthetic needles for wolves and tigers. Animals roam freely throughout the forest, adding a dynamic element to the game. <br><br>
+Based on player feedback, the game includes a detailed tutorial system at the beginning to help players understand the controls, objectives, and mechanics of the game. <br><br>
 
-**3. Building System**
+**3. Dialogue and Storytelling**
+The game includes a dialogue system that guides the player through the story. NPC interactions provide hints, tasks, and background information, enhancing the narrative experience. Players can accept or decline tasks offered by NPCs, adding a layer of decision-making to the gameplay. <br><br>
+
+**4. Animal Taming System**
+
+Players can tame various animals, each with unique personalities and behaviors. Different strategies and tools are required for taming different animals, such as using carrots for rabbits or anesthetic needles for wolves and tigers. Animals roam freely throughout the forest, adding a dynamic element to the game. <br><br>
+
+**5. Building System**
 
 Players can collect resources like wood and stone to construct buildings. They can choose from at least two types of houses and furnish them using the materials they gather. The building system also includes the ability to enter and interact with their homes.<br><br>
 
-**4. Resource Collection and Management**
+**6. Resource Collection and Management**
 
 A bag system allows players to collect and store various resources found throughout the forest. These resources can be used to build structures, craft tools, and tame animals.<br><br>
 
-**5. Shop System**
+**7. Shop System**
 
 The shop, located in the wonderland section of the map, offers players the opportunity to purchase items and resources to aid in their survival and progress within the game.<br><br>
 
-**6. Dialogue and Storytelling**
-The game includes a dialogue system that guides the player through the story. NPC interactions provide hints, tasks, and background information, enhancing the narrative experience. Players can choose to accept or decline tasks offered by NPCs, adding a layer of decision-making to the gameplay. <br><br>
-
-**7. Exploration of Secret Places**
+**8. Exploration of Secret Places**
 
 The forest contains various secret locations such as caves and ancient ruins. These areas house hidden tasks, valuable resources, and special animals like the unicorn and phoenix.<br><br>
 
-**8. Dynamic and Diverse Environment**
+**9. Dynamic and Diverse Environment**
 
 The game world is divided into five distinct areas: the center of Elderwood, the Sakura forest, the wasteland, the snow mountain, and the wonderland. Each area offers unique resources, animals, and challenges.<br><br>
 
-**9. Educational Tutorial System**
-
-Based on player feedback, the game includes a detailed tutorial system at the beginning to help players understand the controls, objectives, and mechanics of the game. <br><br>
 
 **10. Health System**
 
